@@ -15,7 +15,6 @@ namespace WinFormsApp1
 		public Form1()
 		{
 			InitializeComponent();
-			// commit test
 		}
 
 	}
